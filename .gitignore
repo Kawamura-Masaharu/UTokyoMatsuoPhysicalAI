@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.jsonl
+!evidence/gemini_nav_20261025.jsonl
+logs/
